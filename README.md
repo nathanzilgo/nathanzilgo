@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nathanzilgo
 - 👀 I’m interested in Android, 3D Animations and Game Dev
-- 🌱 I’m currently learning Android with Kotlin and Unity
-- 💞️ I’m looking to collaborate on Android or Unity projects
+- 🌱 I’m currently working as a fullstack software engineer
+- 💞️ I’m looking to collaborate on Android, GameDev and Sound Design
 - 📫 How to reach me: nathan.pedroza@ccc.ufcg.edu.br or nathanfpedroza@gmail.com
 
 <!---
