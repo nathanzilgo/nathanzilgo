@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Nathan Fernandes
 - 👀 I’m mostly interested in Music, Deep Learning, Audio Processing and Game Dev
-- 🌱 I’m currently working as a part-time Data Scientist at <img src="https://assets.website-files.com/63c99d3365855908aa1f8ec6/646fb61f1a3bf4f6ae0c715e_brand-3.png" width="18" height="24" /> [Indaband](https://inda.band)
 - 📫 How to reach me: nathan.pedroza@ccc.ufcg.edu.br or nathanfpedroza@gmail.com
 
 <h4>Technologies I use:</h4>
